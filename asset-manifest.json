@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pop-punkd/static/css/main.590f13fa.css",
+    "main.js": "/pop-punkd/static/js/main.a1fc75af.js",
+    "index.html": "/pop-punkd/index.html",
+    "main.590f13fa.css.map": "/pop-punkd/static/css/main.590f13fa.css.map",
+    "main.a1fc75af.js.map": "/pop-punkd/static/js/main.a1fc75af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590f13fa.css",
+    "static/js/main.a1fc75af.js"
+  ]
+}
