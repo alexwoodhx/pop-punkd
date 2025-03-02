@@ -1,0 +1,879 @@
+[
+  {
+    "band": "New Found Glory",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "N",
+      "popular_songs": [
+        "Hit or Miss",
+        "My Friends Over You",
+        "All Downhill From Here"
+      ],
+      "albums": [
+        "Sticks and Stones",
+        "Catalyst",
+        "New Found Glory"
+      ],
+      "lyric_hint": "My friends over you",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NFG_SlamDunk_2019.jpg/300px-NFG_SlamDunk_2019.jpg"
+    }
+  },
+  {
+    "band": "The All-American Rejects",
+    "year_formed": "1999",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "Swing, Swing",
+        "Dirty Little Secret",
+        "Move Along"
+      ],
+      "albums": [
+        "The All-American Rejects",
+        "Move Along",
+        "When the World Comes Down"
+      ],
+      "lyric_hint": "Gives you hell, that's what you get",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/All_American_Rejects_Hampton_Casino_Ballroom.jpg/280px-All_American_Rejects_Hampton_Casino_Ballroom.jpg"
+    }
+  },
+  {
+    "band": "Fall Out Boy",
+    "year_formed": "2001",
+    "hints": {
+      "first_letter": "F",
+      "popular_songs": [
+        "Sugar, We're Goin Down",
+        "Dance, Dance",
+        "Thnks fr th Mmrs"
+      ],
+      "albums": [
+        "From Under the Cork Tree",
+        "Infinity on High",
+        "Folie à Deux"
+      ],
+      "lyric_hint": "We're going down, down in an earlier round",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fall_Out_Boy%2C_Heaven%2C_London_%2852755936394%29.jpg/300px-Fall_Out_Boy%2C_Heaven%2C_London_%2852755936394%29.jpg"
+    }
+  },
+  {
+    "band": "Good Charlotte",
+    "year_formed": "1995",
+    "hints": {
+      "first_letter": "G",
+      "popular_songs": [
+        "The Anthem",
+        "Lifestyles of the Rich & Famous",
+        "I Just Wanna Live"
+      ],
+      "albums": [
+        "The Young and the Hopeless",
+        "Good Charlotte",
+        "Good Morning Revival"
+      ],
+      "lyric_hint": "Lifestyles of the rich and the famous",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2017_Nova_Rock_Good_Charlotte_%28cropped%29.jpg/300px-2017_Nova_Rock_Good_Charlotte_%28cropped%29.jpg"
+    }
+  },
+  {
+    "band": "Sum 41",
+    "year_formed": "1996",
+    "hints": {
+      "first_letter": "S",
+      "popular_songs": [
+        "Fat Lip",
+        "In Too Deep",
+        "Still Waiting"
+      ],
+      "albums": [
+        "All Killer No Filler",
+        "Does This Look Infected?",
+        "Chuck"
+      ],
+      "lyric_hint": "Cause I'm in too deep, and I'm trying to keep",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sum_41_-_2023155152603_2023-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0257_-_AK8I8513.jpg/300px-Sum_41_-_2023155152603_2023-06-04_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_0257_-_AK8I8513.jpg"
+    }
+  },
+  {
+    "band": "Waterparks",
+    "year_formed": "2011",
+    "hints": {
+      "first_letter": "W",
+      "popular_songs": [
+        "Stupid For You",
+        "Blonde",
+        "Turbulent"
+      ],
+      "albums": [
+        "Double Dare",
+        "Entertainment",
+        "Fandom"
+      ],
+      "lyric_hint": "I'm a mess, but I'm still trying my best",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Waterparks_performing_at_Good_Things_Festival%2C_Brisbane_2018.jpg/250px-Waterparks_performing_at_Good_Things_Festival%2C_Brisbane_2018.jpg"
+    }
+  },
+  {
+    "band": "We the Kings",
+    "year_formed": "2005",
+    "hints": {
+      "first_letter": "W",
+      "popular_songs": [
+        "Check Yes Juliet",
+        "Say You Like Me",
+        "We'll Be a Dream"
+      ],
+      "albums": [
+        "We the Kings",
+        "Smile Kid",
+        "Somewhere Somehow"
+      ],
+      "lyric_hint": "Check yes Juliet, are you with me?",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/We_the_Kings_Hershey_PA_New_Years_Eve.jpg/300px-We_the_Kings_Hershey_PA_New_Years_Eve.jpg"
+    }
+  },
+  {
+    "band": "Avril Lavigne",
+    "year_formed": "",
+    "hints": {
+      "first_letter": "A",
+      "popular_songs": [
+        "Complicated",
+        "Sk8er Boi",
+        "Pop-Punk Queen"
+      ],
+      "albums": [
+        "Complicated",
+        "Sk8er Boi",
+        "Pop-Punk Queen"
+      ],
+      "lyric_hint": "He was a skater boy, she said see you later boy",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/220px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg"
+    }
+  },
+  {
+    "band": "Blink-182",
+    "year_formed": "1992",
+    "hints": {
+      "first_letter": "B",
+      "popular_songs": [
+        "All the Small Things",
+        "What's My Age Again?",
+        "I Miss You"
+      ],
+      "albums": [
+        "Enema of the State",
+        "Take Off Your Pants and Jacket",
+        "Blink-182"
+      ],
+      "lyric_hint": "Nobody likes you when you're 23",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Blink-182_-_pressbild_PC_Rory_Kramer.jpg/300px-Blink-182_-_pressbild_PC_Rory_Kramer.jpg"
+    }
+  },
+  {
+    "band": "Green Day",
+    "year_formed": "1987",
+    "hints": {
+      "first_letter": "G",
+      "popular_songs": [
+        "Basket Case",
+        "Boulevard of Broken Dreams",
+        "American Idiot"
+      ],
+      "albums": [
+        "Dookie",
+        "American Idiot",
+        "Nimrod"
+      ],
+      "lyric_hint": "Wake me up when September ends",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GreenDay_Isle_of_Wight_Montage.jpg/300px-GreenDay_Isle_of_Wight_Montage.jpg"
+    }
+  },
+  {
+    "band": "Jimmy Eat World",
+    "year_formed": "1993",
+    "hints": {
+      "first_letter": "J",
+      "popular_songs": [
+        "The Middle",
+        "Sweetness",
+        "Pain"
+      ],
+      "albums": [
+        "Clarity",
+        "Bleed American",
+        "Futures"
+      ],
+      "lyric_hint": "It just takes some time, little girl, you're in the middle of the ride",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2018_RiP_-_Jimmy_Eat_World_-_by_2eight_-_8SC8102.jpg/300px-2018_RiP_-_Jimmy_Eat_World_-_by_2eight_-_8SC8102.jpg"
+    }
+  },
+  {
+    "band": "Mayday Parade",
+    "year_formed": "2005",
+    "hints": {
+      "first_letter": "M",
+      "popular_songs": [
+        "made more sense if we put them together instead of playing separately.",
+        "Three Cheers For Five Years",
+        "When I Get Home, You're So Dead"
+      ],
+      "albums": [
+        "Three Cheers For Five Years",
+        "When I Get Home, Youre So Dead",
+        "Jamie All Over"
+      ],
+      "lyric_hint": "I swear that you don't have to go",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20140522T121531147.jpg/250px-20140522T121531147.jpg"
+    }
+  },
+  {
+    "band": "Motion City Soundtrack",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "M",
+      "popular_songs": [],
+      "albums": [
+        "a little too emo.",
+        "Totally Wicked Awesome Tour",
+        "The Future Freaks Me Out"
+      ],
+      "lyric_hint": "I'm on fire and now I think I'm ready to bust a move",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Motion_City_in_DC.jpg/267px-Motion_City_in_DC.jpg"
+    }
+  },
+  {
+    "band": "My Chemical Romance",
+    "year_formed": "2001",
+    "hints": {
+      "first_letter": "M",
+      "popular_songs": [
+        "Welcome to the Black Parade",
+        "Helena",
+        "Teenagers"
+      ],
+      "albums": [
+        "Three Cheers for Sweet Revenge",
+        "The Black Parade",
+        "Danger Days"
+      ],
+      "lyric_hint": "When I was a young boy, my father took me into the city",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MCR820_%28cropped%29.jpg/300px-MCR820_%28cropped%29.jpg"
+    }
+  },
+  {
+    "band": "The Offspring",
+    "year_formed": "1984",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "Pretty Fly (For a White Guy)",
+        "Self Esteem",
+        "Come Out and Play"
+      ],
+      "albums": [
+        "Smash",
+        "Americana",
+        "Conspiracy of One"
+      ],
+      "lyric_hint": "You gotta keep 'em separated",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Offspring_-_2022154192733_2022-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_1435_-_AK8I1668.jpg/300px-The_Offspring_-_2022154192733_2022-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_1435_-_AK8I1668.jpg"
+    }
+  },
+  {
+    "band": "Paramore",
+    "year_formed": "2004",
+    "hints": {
+      "first_letter": "P",
+      "popular_songs": [
+        "Misery Business",
+        "Ain't It Fun",
+        "Still Into You"
+      ],
+      "albums": [
+        "Riot!",
+        "Brand New Eyes",
+        "All We Know Is Falling"
+      ],
+      "lyric_hint": "That's what you get when you let your heart win",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Paramore_2023.jpg/300px-Paramore_2023.jpg"
+    }
+  },
+  {
+    "band": "Panic! at the Disco",
+    "year_formed": "2004",
+    "hints": {
+      "first_letter": "P",
+      "popular_songs": [
+        "I Write Sins Not Tragedies",
+        "Nine in the Afternoon",
+        "High Hopes"
+      ],
+      "albums": [
+        "A Fever You Can't Sweat Out",
+        "Pretty. Odd.",
+        "Death of a Bachelor"
+      ],
+      "lyric_hint": "I write sins not tragedies",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Panic%21_At_the_Disco_%2843285362654%29.jpg/267px-Panic%21_At_the_Disco_%2843285362654%29.jpg"
+    }
+  },
+  {
+    "band": "Rancid",
+    "year_formed": "1991",
+    "hints": {
+      "first_letter": "R",
+      "popular_songs": [
+        "Time Bomb",
+        "Ruby Soho",
+        "Salvation"
+      ],
+      "albums": [
+        "...And Out Come the Wolves",
+        "Let's Go",
+        "Life Won't Wait"
+      ],
+      "lyric_hint": "Ruby Soho, destination unknown",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HF2023Rancid_9.jpg/300px-HF2023Rancid_9.jpg"
+    }
+  },
+  {
+    "band": "Simple Plan",
+    "year_formed": "1999",
+    "hints": {
+      "first_letter": "S",
+      "popular_songs": [
+        "Perfect",
+        "Welcome to My Life",
+        "I'm Just a Kid"
+      ],
+      "albums": [
+        "No Pads, No Helmets...Just Balls",
+        "Still Not Getting Any...",
+        "Simple Plan"
+      ],
+      "lyric_hint": "I'm just a kid and life is a nightmare",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Simple_Plan_-_Rock%27n%27Heim_2015_-_2015235144151_2015-08-23_Rock%27n%27Heim_-_Sven_-_5DS_R_-_0096_-_5DSR1862_mod.jpg/300px-Simple_Plan_-_Rock%27n%27Heim_2015_-_2015235144151_2015-08-23_Rock%27n%27Heim_-_Sven_-_5DS_R_-_0096_-_5DSR1862_mod.jpg"
+    }
+  },
+  {
+    "band": "The Starting Line",
+    "year_formed": "1999",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "Jamming and shit",
+        "jammed and wrote a couple of songs"
+      ],
+      "albums": [
+        "Jamming and shit",
+        "jammed and wrote a couple of songs",
+        "West Girl Scout Road"
+      ],
+      "lyric_hint": "The best of us can find happiness in misery",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tslband.jpg/220px-Tslband.jpg"
+    }
+  },
+  {
+    "band": "Taking Back Sunday",
+    "year_formed": "1999",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "MakeDamnSure",
+        "Cute Without the 'E'",
+        "You're So Last Summer"
+      ],
+      "albums": [
+        "Tell All Your Friends",
+        "Where You Want to Be",
+        "Louder Now"
+      ],
+      "lyric_hint": "The truth is you could slit my throat, and with my one last gasping breath",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Taking_Back_Sunday_-_Rock_am_Ring_2018-4736.jpg/300px-Taking_Back_Sunday_-_Rock_am_Ring_2018-4736.jpg"
+    }
+  },
+  {
+    "band": "Weezer",
+    "year_formed": "1992",
+    "hints": {
+      "first_letter": "W",
+      "popular_songs": [
+        "Buddy Holly",
+        "Island in the Sun",
+        "Say It Ain't So"
+      ],
+      "albums": [
+        "Weezer (Blue Album)",
+        "Pinkerton",
+        "Weezer (Green Album)"
+      ],
+      "lyric_hint": "Say it ain't so, your drug is a heartbreaker",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Weezer_Bethlehem_2019_1.jpg/267px-Weezer_Bethlehem_2019_1.jpg"
+    }
+  },
+  {
+    "band": "The Wonder Years",
+    "year_formed": "2005",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "Came Out Swinging",
+        "Local Man Ruins Everything",
+        "Passing Through a Screen Door"
+      ],
+      "albums": [
+        "The Upsides",
+        "Suburbia I've Given You All and Now I'm Nothing",
+        "The Greatest Generation"
+      ],
+      "lyric_hint": "I'm not sad anymore, I'm just tired of this place",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Wonder_Years_Riot_Fest_2023.jpg/300px-The_Wonder_Years_Riot_Fest_2023.jpg"
+    }
+  },
+  {
+    "band": "Yellowcard",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "Y",
+      "popular_songs": [
+        "Ocean Avenue",
+        "Only One",
+        "Lights and Sounds"
+      ],
+      "albums": [
+        "Ocean Avenue",
+        "Lights and Sounds",
+        "Paper Walls"
+      ],
+      "lyric_hint": "If I could find you now, things would get better",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Yellowcard_2012-06-27_02.JPG/300px-Yellowcard_2012-06-27_02.JPG"
+    }
+  },
+  {
+    "band": "A Day to Remember",
+    "year_formed": "2003",
+    "hints": {
+      "first_letter": "A",
+      "popular_songs": [],
+      "albums": [
+        "Since U Been Gone",
+        "Easycore Tour",
+        "Over My Head (Cable Car)"
+      ],
+      "lyric_hint": "If you can't hang then, there's the door",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A_Day_to_Remember_-_Saratoga_Performing_Arts_Center_Sept_04_2016.jpg/300px-A_Day_to_Remember_-_Saratoga_Performing_Arts_Center_Sept_04_2016.jpg"
+    }
+  },
+  {
+    "band": "All Time Low",
+    "year_formed": "2003",
+    "hints": {
+      "first_letter": "A",
+      "popular_songs": [
+        "Dear Maria, Count Me In",
+        "Weightless",
+        "Damned If I Do Ya"
+      ],
+      "albums": [
+        "So Wrong, It's Right",
+        "Nothing Personal",
+        "Don't Panic"
+      ],
+      "lyric_hint": "Dear Maria, count me in",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/All_Time_Low_-_Saratoga_Performing_Arts_Center_September_4_2016.jpg/300px-All_Time_Low_-_Saratoga_Performing_Arts_Center_September_4_2016.jpg"
+    }
+  },
+  {
+    "band": "Bowling for Soup",
+    "year_formed": "1994",
+    "hints": {
+      "first_letter": "B",
+      "popular_songs": [
+        "Girl All the Bad Guys Want",
+        "1985",
+        "Almost"
+      ],
+      "albums": [
+        "Girl All the Bad Guys Want",
+        "1985",
+        "Almost"
+      ],
+      "lyric_hint": "1985, Debbie just hit the wall",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bowling_for_Soup_performing_at_Saint_Andrew%27s_Hall%2C_Detroit%2C_2023-09-14_10.jpg/280px-Bowling_for_Soup_performing_at_Saint_Andrew%27s_Hall%2C_Detroit%2C_2023-09-14_10.jpg"
+    }
+  },
+  {
+    "band": "Descendents",
+    "year_formed": "1977",
+    "hints": {
+      "first_letter": "D",
+      "popular_songs": [
+        "Suburban Home",
+        "I'm the One",
+        "Everything Sucks"
+      ],
+      "albums": [
+        "Milo Goes to College",
+        "I Don't Want to Grow Up",
+        "Everything Sucks"
+      ],
+      "lyric_hint": "I don't want to grow up",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Descendents_-_Fillmore_Auditorium%2C_Denver_-_April_2022.jpg/267px-Descendents_-_Fillmore_Auditorium%2C_Denver_-_April_2022.jpg"
+    }
+  },
+  {
+    "band": "Knuckle Puck",
+    "year_formed": "2010",
+    "hints": {
+      "first_letter": "K",
+      "popular_songs": [
+        "knucklepuck",
+        "Groundhog Day."
+      ],
+      "albums": [
+        "knucklepuck",
+        "Groundhog Day.",
+        "Calendar Days"
+      ],
+      "lyric_hint": "I'll tell you everything I wish that I had known",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Knuckle_Puck_live_in_Concert.jpg/220px-Knuckle_Puck_live_in_Concert.jpg"
+    }
+  },
+  {
+    "band": "Less Than Jake",
+    "year_formed": "1992",
+    "hints": {
+      "first_letter": "L",
+      "popular_songs": [
+        "All My Best Friends Are Metalheads",
+        "The Science of Selling Yourself Short",
+        "Look What Happened"
+      ],
+      "albums": [
+        "Hello Rockview",
+        "Anthem",
+        "Losing Streak"
+      ],
+      "lyric_hint": "The science of selling yourself short",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/BftA_Less_Than_Jake_20220710_022810826_%2852215383579%29_%28cropped%29.jpg/300px-BftA_Less_Than_Jake_20220710_022810826_%2852215383579%29_%28cropped%29.jpg"
+    }
+  },
+  {
+    "band": "Neck Deep",
+    "year_formed": "2012",
+    "hints": {
+      "first_letter": "N",
+      "popular_songs": [
+        "In Bloom",
+        "December",
+        "Can't Kick Up the Roots"
+      ],
+      "albums": [
+        "Life's Not Out to Get You",
+        "The Peace and the Panic",
+        "Wishful Thinking"
+      ],
+      "lyric_hint": "I've been wasting away, but in a different way",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Neck_Deep_Full_Force_2022_19.jpg/300px-Neck_Deep_Full_Force_2022_19.jpg"
+    }
+  },
+  {
+    "band": "NOFX",
+    "year_formed": "1983",
+    "hints": {
+      "first_letter": "N",
+      "popular_songs": [
+        "Linoleum",
+        "Don't Call Me White",
+        "The Separation of Church and Skate"
+      ],
+      "albums": [
+        "Punk in Drublic",
+        "White Trash, Two Heebs and a Bean",
+        "So Long and Thanks for All the Shoes"
+      ],
+      "lyric_hint": "It's my job to keep punk rock elite",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NOFX3.jpg/267px-NOFX3.jpg"
+    }
+  },
+  {
+    "band": "Real Friends",
+    "year_formed": "2010",
+    "hints": {
+      "first_letter": "R",
+      "popular_songs": [
+        "wasn't happy",
+        "didn't feel right [playing the songs they currently had]. [...] almost forc[ing] ourselves into [a] sound."
+      ],
+      "albums": [
+        "Colder Quicker",
+        "Colder Quicker",
+        "Get By"
+      ],
+      "lyric_hint": "I've been feeling like I'm underwater and no one really cares",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Real_Friends_at_Ohio_is_for_Lovers.jpg/300px-Real_Friends_at_Ohio_is_for_Lovers.jpg"
+    }
+  },
+  {
+    "band": "State Champs",
+    "year_formed": "2010",
+    "hints": {
+      "first_letter": "S",
+      "popular_songs": [
+        "Elevated",
+        "Secrets",
+        "Dead and Gone"
+      ],
+      "albums": [
+        "The Finer Things",
+        "Around the World and Back",
+        "Living Proof"
+      ],
+      "lyric_hint": "All I want is a place to call my own, to mend the hearts of everyone",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/State_Champs.jpg/220px-State_Champs.jpg"
+    }
+  },
+  {
+    "band": "The Story So Far",
+    "year_formed": "2007",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "The Story So Far",
+        "Loro",
+        "100 Bands You Need to Know."
+      ],
+      "albums": [
+        "The Story So Far",
+        "Navy Blue",
+        "Waiting in Vain"
+      ],
+      "lyric_hint": "I know where you've been, you're ruining things again",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Olgas_Rock_2015_The_Story_So_Far_02.jpg/300px-Olgas_Rock_2015_The_Story_So_Far_02.jpg"
+    }
+  },
+  {
+    "band": "5 Seconds of Summer",
+    "year_formed": "2011",
+    "hints": {
+      "first_letter": "5",
+      "popular_songs": [
+        "She Looks So Perfect",
+        "Amnesia",
+        "Youngblood"
+      ],
+      "albums": [
+        "5 Seconds of Summer",
+        "Sounds Good Feels Good",
+        "Youngblood"
+      ],
+      "lyric_hint": "She looks so perfect standing there",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/5sos-NZ4A4323.jpg/300px-5sos-NZ4A4323.jpg"
+    }
+  },
+  {
+    "band": "The Matches",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [
+        "Chain Me Free",
+        "Papercut Skin",
+        "Salty Eyes"
+      ],
+      "albums": [
+        "E. Von Dahl Killed the Locals",
+        "Decomposer",
+        "A Band in Hope"
+      ],
+      "lyric_hint": "We are one spark away from a complete disaster",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_matches.jpg/220px-The_matches.jpg"
+    }
+  },
+  {
+    "band": "Plain White T's",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "P",
+      "popular_songs": [
+        "Hey There Delilah",
+        "1, 2, 3, 4",
+        "Rhythm of Love"
+      ],
+      "albums": [
+        "All That We Needed",
+        "Every Second Counts",
+        "Big Bad World"
+      ],
+      "lyric_hint": "Hey there Delilah, what's it like in New York City?",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Plain_White_T%27s_2015.jpg/298px-Plain_White_T%27s_2015.jpg"
+    }
+  },
+  {
+    "band": "Groovie Ghoulies",
+    "year_formed": "1983",
+    "hints": {
+      "first_letter": "G",
+      "popular_songs": [],
+      "albums": [],
+      "lyric_hint": "Energetic tracks that capture youth and rebellion",
+      "image_url": ""
+    }
+  },
+  {
+    "band": "Hey Violet",
+    "year_formed": "2008",
+    "hints": {
+      "first_letter": "H",
+      "popular_songs": [],
+      "albums": [
+        "The Pretender",
+        "Guys My Age",
+        "Break My Heart"
+      ],
+      "lyric_hint": "Anthems for the misunderstood and the restless",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/HeyViolet2016.png/300px-HeyViolet2016.png"
+    }
+  },
+  {
+    "band": "Home Grown",
+    "year_formed": "1994",
+    "hints": {
+      "first_letter": "H",
+      "popular_songs": [],
+      "albums": [
+        "Youre Not Alone",
+        "Kiss Me, Diss Me",
+        "indefinite hiatus"
+      ],
+      "lyric_hint": "Classic 90s pop-punk energy from Home Grown",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Home_Grown_band_photo.jpg/260px-Home_Grown_band_photo.jpg"
+    }
+  },
+  {
+    "band": "The Lillingtons",
+    "year_formed": "1995",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [],
+      "albums": [],
+      "lyric_hint": "I Lost My Marbles",
+      "image_url": ""
+    }
+  },
+  {
+    "band": "Masked Intruder",
+    "year_formed": "2010",
+    "hints": {
+      "first_letter": "M",
+      "popular_songs": [],
+      "albums": [],
+      "lyric_hint": "their early pop punk sound with their fast-paced songs, usually about love.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Masked_Intruder.JPG/267px-Masked_Intruder.JPG"
+    }
+  },
+  {
+    "band": "The Movielife",
+    "year_formed": "1997",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [],
+      "albums": [
+        "Jamestown",
+        "s next for The Movielife, Caruana said, I wouldn",
+        "s just got to write it. I don"
+      ],
+      "lyric_hint": "Emotional lyrics with pop-punk instrumentation",
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/The_Movielife.jpg/220px-The_Movielife.jpg"
+    }
+  },
+  {
+    "band": "The Mr. T Experience",
+    "year_formed": "1985",
+    "hints": {
+      "first_letter": "T",
+      "popular_songs": [],
+      "albums": [
+        "a kinda accidental thing,",
+        "Bobby J",
+        "t belong in rock"
+      ],
+      "lyric_hint": "Classic 90s pop-punk energy from The Mr. T Experience",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Mr_T_Experience_Dr_Frand_%26_Bobby_J_live.jpg/220px-The_Mr_T_Experience_Dr_Frand_%26_Bobby_J_live.jpg"
+    }
+  },
+  {
+    "band": "Ramones",
+    "year_formed": "1974",
+    "hints": {
+      "first_letter": "R",
+      "popular_songs": [
+        "Blitzkrieg Bop",
+        "I Wanna Be Sedated",
+        "Pet Sematary"
+      ],
+      "albums": [
+        "Ramones",
+        "Leave Home",
+        "Rocket to Russia"
+      ],
+      "lyric_hint": "Hey ho, let's go",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ramones_rocket_to_russia_photo.jpg/240px-Ramones_rocket_to_russia_photo.jpg"
+    }
+  },
+  {
+    "band": "Screeching Weasel",
+    "year_formed": "1986",
+    "hints": {
+      "first_letter": "S",
+      "popular_songs": [],
+      "albums": [],
+      "lyric_hint": "Ive got a screaming otter in my pants!",
+      "image_url": ""
+    }
+  },
+  {
+    "band": "Set Your Goals",
+    "year_formed": "2004",
+    "hints": {
+      "first_letter": "S",
+      "popular_songs": [
+        "touring off of that alone for almost 2 years"
+      ],
+      "albums": [
+        "touring off of that alone for almost 2 years",
+        "The Fallen",
+        "The Few That Remain"
+      ],
+      "lyric_hint": "Songs about friendship, heartbreak, and growing up",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SYG_House_Of_Blues_Orlando_2007.jpeg/300px-SYG_House_Of_Blues_Orlando_2007.jpeg"
+    }
+  },
+  {
+    "band": "A Change of Pace",
+    "year_formed": "2001",
+    "hints": {
+      "first_letter": "A",
+      "popular_songs": [],
+      "albums": [],
+      "lyric_hint": "Emotional lyrics with pop-punk instrumentation",
+      "image_url": ""
+    }
+  },
+  {
+    "band": "All",
+    "year_formed": "1987",
+    "hints": {
+      "first_letter": "A",
+      "popular_songs": [],
+      "albums": [
+        "s Allroy",
+        "s My Ex), 1990",
+        "Guilty"
+      ],
+      "lyric_hint": "Songs about friendship, heartbreak, and growing up",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ALL_logo.svg/220px-ALL_logo.svg.png"
+    }
+  }
+]
